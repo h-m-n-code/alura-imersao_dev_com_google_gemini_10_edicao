@@ -1,0 +1,125 @@
+/* Reset básico e configurações globais */
+:root {
+    --cor-gramado: #2a5c2e;
+    --cor-texto-principal: #ffffff;
+    --cor-fundo-card: #f9f9f9;
+    --cor-texto-card: #333;
+    --cor-destaque: #f1c40f; /* Amarelo/Dourado para o campeão */
+    --cor-sombra: rgba(0, 0,0, 0.2);
+    --cor-fundo-header-footer: #1e4221;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.page-futebol {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--cor-gramado);
+    color: var(--cor-texto-principal);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Cabeçalho */
+header {
+    background-color: var(--cor-fundo-header-footer);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid var(--cor-destaque);
+}
+
+header h1 {
+    margin-bottom: 15px;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+header div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#ano-busca {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--cor-texto-principal);
+    width: 300px;
+    font-size: 1rem;
+}
+
+#botao-busca {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: var(--cor-destaque);
+    color: var(--cor-texto-card);
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#botao-busca:hover {
+    background-color: #dab10d;
+}
+
+/* Conteúdo Principal e Cards */
+main {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background-color: var(--cor-fundo-card);
+    color: var(--cor-texto-card);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px var(--cor-sombra);
+    padding: 20px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card h2 {
+    color: var(--cor-gramado);
+    font-size: 1.5rem;
+}
+
+.card p {
+    line-height: 1.6;
+}
+
+/* Rodapé */
+.footer {
+    background-color: var(--cor-fundo-header-footer);
+    color: var(--cor-texto-principal);
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid var(--cor-gramado);
+}
+
+.footer-links {
+    list-style: none;
+}
+
+.footer-links a {
+    color: var(--cor-destaque);
+    text-decoration: none;
+}

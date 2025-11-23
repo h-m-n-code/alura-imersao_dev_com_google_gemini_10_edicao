@@ -1,0 +1,223 @@
+[
+  {
+    "time": "São Raimundo Esporte Clube (PA)",
+    "ano_fundacao": "1944",
+    "mascote": "Pantera",
+    "sobre": "Primeiro campeão da história da Série D, o São Raimundo garantiu seu lugar ao vencer o torneio em 2009, representando o estado do Pará.",
+    "ano_campeao": "2009",
+    "tags": [
+      "Primeiro campeão",
+      "Representante do Norte",
+      "Azul e Preto",
+      "Tradicional do Pará"
+    ]
+  },
+  {
+    "time": "Guarany Sporting Club (CE)",
+    "ano_fundacao": "1938",
+    "mascote": "Cacique",
+    "sobre": "Conquistou o título da Série D em 2010, após uma campanha sólida que culminou na final contra o América-AM. É conhecido por sua forte presença no futebol cearense.",
+    "ano_campeao": "2010",
+    "tags": [
+      "Time do Ceará",
+      "Cacique do Vale",
+      "Vermelho e Preto",
+      "Força Nordestina"
+    ]
+  },
+  {
+    "time": "Tupi Football Club (MG)",
+    "ano_fundacao": "1912",
+    "mascote": "Galo Carijó",
+    "sobre": "O Tupi, de Juiz de Fora, levantou a taça da Série D em 2011, superando o Santa Cruz-RS na final. Possui uma das maiores torcidas do interior mineiro.",
+    "ano_campeao": "2011",
+    "tags": [
+      "Galo Carijó",
+      "Clube centenário",
+      "Campeão mineiro",
+      "Branco e Preto"
+    ]
+  },
+  {
+    "time": "Sampaio Corrêa Futebol Clube (MA)",
+    "ano_fundacao": "1923",
+    "mascote": "Tubarão",
+    "sobre": "Um dos clubes mais tradicionais do Maranhão, o Sampaio Corrêa foi campeão em 2012, marcando o início de uma ascensão no cenário nacional.",
+    "ano_campeao": "2012",
+    "tags": [
+      "Tubarão",
+      "Tricolor Maranhense",
+      "Time de São Luís",
+      "Subiu rapidamente"
+    ]
+  },
+  {
+    "time": "Botafogo Futebol Clube (PB)",
+    "ano_fundacao": "1931",
+    "mascote": "Belo",
+    "sobre": "Vencedor da Série D em 2013, o Botafogo da Paraíba é o maior detentor de títulos estaduais no seu estado. Conquistou a Série D de forma invicta.",
+    "ano_campeao": "2013",
+    "tags": [
+      "Belo",
+      "Campeão invicto",
+      "Maior da Paraíba",
+      "Branco, Preto e Vermelho"
+    ]
+  },
+  {
+    "time": "Tombense Futebol Clube (MG)",
+    "ano_fundacao": "1914",
+    "mascote": "Gavião Carcará",
+    "sobre": "O clube de Tombos, Minas Gerais, surpreendeu ao conquistar a Série D em 2014, um marco na história da equipe conhecida por seu bom desempenho em categorias de base.",
+    "ano_campeao": "2014",
+    "tags": [
+      "Gavião Carcará",
+      "Interior de Minas",
+      "Ascensão recente",
+      "Gestão eficiente"
+    ]
+  },
+  {
+    "time": "Botafogo Futebol Clube (SP)",
+    "ano_fundacao": "1918",
+    "mascote": "Pantera",
+    "sobre": "O Botafogo de Ribeirão Preto sagrou-se campeão em 2015, voltando a ter destaque no cenário nacional após anos de dificuldades. Rival do Comercial-SP.",
+    "ano_campeao": "2015",
+    "tags": [
+      "Pantera",
+      "Ribeirão Preto",
+      "Rivalidade clássica",
+      "Vermelho e Preto"
+    ]
+  },
+  {
+    "time": "Volta Redonda Futebol Clube (RJ)",
+    "ano_fundacao": "1976",
+    "mascote": "Voltaço",
+    "sobre": "Conhecido como Voltaço, o clube do Rio de Janeiro conquistou a Série D em 2016, demonstrando força no cenário interestadual e garantindo seu acesso.",
+    "ano_campeao": "2016",
+    "tags": [
+      "Voltaço",
+      "Time da Cidade do Aço",
+      "Laranja, Preto e Branco",
+      "Força Fluminense"
+    ]
+  },
+  {
+    "time": "Operário Ferroviário Esporte Clube (PR)",
+    "ano_fundacao": "1912",
+    "mascote": "Fantasma",
+    "sobre": "O 'Fantasma' de Ponta Grossa venceu a Série D de 2017. O Operário é um clube centenário com uma das torcidas mais fervorosas do Paraná.",
+    "ano_campeao": "2017",
+    "tags": [
+      "Fantasma",
+      "Centenário",
+      "Clube do interior",
+      "Alvinegro"
+    ]
+  },
+  {
+    "time": "Ferroviário Atlético Clube (CE)",
+    "ano_fundacao": "1933",
+    "mascote": "Tubarão da Barra",
+    "sobre": "O Ferroviário conquistou seu primeiro título da Série D em 2018, em uma campanha histórica, se consolidando como uma potência no futebol cearense, ao lado de Ceará e Fortaleza.",
+    "ano_campeao": "2018",
+    "tags": [
+      "Tubarão da Barra",
+      "Time do Ceará",
+      "Campanha marcante",
+      "Vermelho e Azul"
+    ]
+  },
+  {
+    "time": "Brusque Futebol Clube (SC)",
+    "ano_fundacao": "1987",
+    "mascote": "Quadricolor",
+    "sobre": "O Brusque foi o campeão de 2019, trazendo o troféu para Santa Catarina. O clube se notabiliza pela gestão profissional e boa estrutura.",
+    "ano_campeao": "2019",
+    "tags": [
+      "Quadricolor",
+      "Time de Santa Catarina",
+      "Gestão moderna",
+      "Amarelo e Vermelho"
+    ]
+  },
+  {
+    "time": "Mirassol Futebol Clube (SP)",
+    "ano_fundacao": "1924",
+    "mascote": "Leão",
+    "sobre": "O Mirassol levantou a taça em 2020, em meio à pandemia, mostrando sua força no estado de São Paulo e garantindo acesso para as divisões superiores.",
+    "ano_campeao": "2020",
+    "tags": [
+      "Leão",
+      "Força paulista",
+      "Amarelo e Verde",
+      "Time tradicional"
+    ]
+  },
+  {
+    "time": "Pouso Alegre Futebol Clube (MG)",
+    "ano_fundacao": "2000",
+    "mascote": "Pousão",
+    "sobre": "Um dos campeões mais jovens da Série D, o Pouso Alegre conquistou o título em 2021, demonstrando a força do futebol do sul de Minas Gerais.",
+    "ano_campeao": "2021",
+    "tags": [
+      "Pousão",
+      "Clube recente",
+      "Sul de Minas",
+      "Vermelho e Branco"
+    ]
+  },
+  {
+    "time": "América Futebol Clube (RN)",
+    "ano_fundacao": "1915",
+    "mascote": "Dragão",
+    "sobre": "O Dragão, tradicional time de Natal, sagrou-se campeão da Série D em 2022, garantindo o retorno às divisões superiores do futebol brasileiro.",
+    "ano_campeao": "2022",
+    "tags": [
+      "Dragão",
+      "Clássico do Rio Grande do Norte",
+      "Vermelho e Branco",
+      "Futebol nordestino"
+    ]
+  },
+  {
+    "time": "Ferroviário Atlético Clube (CE)",
+    "ano_fundacao": "1933",
+    "mascote": "Tubarão da Barra",
+    "sobre": "O Ferroviário se tornou bicampeão da Série D em 2023, um feito raro na competição, mostrando a consistência do clube cearense.",
+    "ano_campeao": "2023",
+    "tags": [
+      "Bicampeão da Série D",
+      "Consistência",
+      "Tubarão da Barra",
+      "Azul e Vermelho"
+    ]
+  },
+  {
+    "time": "Sociedade Esportiva e Recreativa Caxias do Sul (RS)",
+    "ano_fundacao": "1935",
+    "mascote": "Falcão Grená",
+    "sobre": "Em uma campanha forte e disputada, o Caxias, clube tradicional do Rio Grande do Sul, finalmente conquista o título da Série D em uma temporada de redenção.",
+    "ano_campeao": "2024",
+    "tags": [
+      "Falcão Grená",
+      "Clube Gaúcho",
+      "Força Serrana",
+      "Time de tradição"
+    ]
+  },
+  {
+    "time": "Agremiação Sportiva Arapiraquense (AL)",
+    "ano_fundacao": "1952",
+    "mascote": "Fantasma de Arapiraca",
+    "sobre": "Após bater na trave em anos anteriores, o ASA de Arapiraca, clube com passagem pela Série B, retorna ao protagonismo conquistando a Série D.",
+    "ano_campeao": "2025",
+    "tags": [
+      "Fantasma de Arapiraca",
+      "Clube de Alagoas",
+      "Ex-Série B",
+      "Alvinegro"
+    ]
+  }
+]

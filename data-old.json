@@ -1,0 +1,72 @@
+[
+    {
+        "time": "Ferroviário Atlético Clube (CE)",
+        "ano_fundacao": 1933,
+        "mascote": "Tubarão da Barra",
+        "sobre": "O Ferroviário Atlético Clube, de Fortaleza, Ceará, é um dos clubes mais tradicionais do estado. Conhecido como Ferrão, possui uma forte ligação com os trabalhadores da antiga Rede de Viação Cearense.",
+        "ano_campeao": 2023
+    },
+    {
+        "time": "América Futebol Clube (RN)",
+        "ano_fundacao": 1915,
+        "mascote": "Dragão",
+        "sobre": "O América de Natal é um dos clubes mais populares do Rio Grande do Norte. Conhecido como Mecão, possui uma das maiores torcidas do estado e uma rica história no futebol nordestino.",
+        "ano_campeao": 2022
+    },
+    {
+        "time": "Associação Atlética Aparecidense",
+        "ano_fundacao": 1985,
+        "mascote": "Camaleão",
+        "sobre": "A Aparecidense, de Aparecida de Goiânia, Goiás, é um clube que vem crescendo no cenário nacional. O Camaleão conquistou seu primeiro título nacional com a Série D em 2021.",
+        "ano_campeao": 2021
+    },
+    {
+        "time": "Mirassol Futebol Clube",
+        "ano_fundacao": 1925,
+        "mascote": "Leão",
+        "sobre": "O Mirassol Futebol Clube, da cidade de Mirassol em São Paulo, é conhecido como Leão da Alta Araraquarense. O clube tem se destacado nos últimos anos no cenário paulista e nacional.",
+        "ano_campeao": 2020
+    },
+    {
+        "time": "Brusque Futebol Clube",
+        "ano_fundacao": 1987,
+        "mascote": "Marreco",
+        "sobre": "O Brusque, de Santa Catarina, vive uma ascensão notável no futebol brasileiro. A conquista da Série D em 2019 foi um marco na história do clube, impulsionando-o para divisões superiores.",
+        "ano_campeao": 2019
+    },
+    {
+        "time": "Ferroviário Atlético Clube (CE)",
+        "ano_fundacao": 1933,
+        "mascote": "Tubarão da Barra",
+        "sobre": "O Ferroviário Atlético Clube, de Fortaleza, Ceará, é um dos clubes mais tradicionais do estado. Conhecido como Ferrão, possui uma forte ligação com os trabalhadores da antiga Rede de Viação Cearense.",
+        "ano_campeao": 2018
+    },
+    {
+        "time": "Operário Ferroviário Esporte Clube",
+        "ano_fundacao": 1912,
+        "mascote": "Fantasma",
+        "sobre": "O Operário de Ponta Grossa, Paraná, é conhecido como Fantasma da Vila. O clube possui uma torcida apaixonada e uma história centenária no futebol paranaense.",
+        "ano_campeao": 2017
+    },
+    {
+        "time": "Volta Redonda Futebol Clube",
+        "ano_fundacao": 1976,
+        "mascote": "Tigre de Aço",
+        "sobre": "O Volta Redonda, do Rio de Janeiro, é conhecido como Voltaço ou Tigre de Aço. A conquista da Série D de 2016 de forma invicta é um dos maiores feitos da história do clube.",
+        "ano_campeao": 2016
+    },
+    {
+        "time": "Botafogo Futebol Clube (SP)",
+        "ano_fundacao": 1918,
+        "mascote": "Pantera",
+        "sobre": "O Botafogo de Ribeirão Preto, São Paulo, é um dos clubes mais tradicionais do interior paulista. Conhecido como Pantera, possui uma grande rivalidade com o Comercial.",
+        "ano_campeao": 2015
+    },
+    {
+        "time": "Tombense Futebol Clube",
+        "ano_fundacao": 1914,
+        "mascote": "Gavião-Carcará",
+        "sobre": "O Tombense, da cidade de Tombos em Minas Gerais, ganhou destaque no cenário nacional nos últimos anos. A conquista da Série D em 2014 foi o primeiro título nacional do clube.",
+        "ano_campeao": 2014
+    }
+]
