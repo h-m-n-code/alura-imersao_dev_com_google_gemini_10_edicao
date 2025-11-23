@@ -20,7 +20,7 @@ Para visualizar a aplicação localmente, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone [LINK_DO_REPOSITORIO]
     cd [NOME_DA_PASTA]
     ```
 
