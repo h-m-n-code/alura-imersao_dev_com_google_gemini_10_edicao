@@ -49,7 +49,7 @@ Este projeto é um resultado de estudo e aplicação dos conhecimentos adquirido
 
 ## 👨‍💻 Autor
 
-| [Seu Nome Aqui] | [Link para o seu LinkedIn ou Portfólio] |
+| [HMN] |
 | :---: | :---: |
 | Desenvolvedor Front-end | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([SEU_LINKEDIN_AQUI]) |
 
